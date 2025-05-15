@@ -140,3 +140,4 @@ boton_tiempo=tk.Button(ventana, text="Tiempo", bg="white", font=("Arial", 13), c
 boton_tiempo.pack(padx=5, pady=5)
 
 ventana.mainloop()
+
